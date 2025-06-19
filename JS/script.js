@@ -22,7 +22,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typed",{
-        strings: ["Software Engineer", "Web Developer", "Data Scientist", "Student"],
+        strings: ["Software Engineer", "Game Developer", "GamePlay Programmer", "Unity Developer"],
         typeSpeed: 60,
         loop:true,
         startDelay:1000,
